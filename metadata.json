@@ -1,0 +1,5 @@
+{
+  "name": "SVG Offline Bundler",
+  "description": "A utility to batch process SVG photo books, downloading external images and bundling them into an offline-ready ZIP archive.",
+  "requestFramePermissions": []
+}
